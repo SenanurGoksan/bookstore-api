@@ -1,0 +1,28 @@
+2025-11-18 23:10:56.9771 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-11-18 23:10:56.9968 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-11-18 23:10:57.0389 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-11-18 23:18:35.6804 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-11-18 23:18:35.6960 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-11-18 23:18:35.7192 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-11-19 00:53:25.9218 Info AppDomain Shutting down. LogFactory closing...
+2025-11-19 00:53:26.0049 Info LogFactory has been disposed.
+2025-11-25 15:35:36.5766 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-11-25 15:35:36.5958 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-11-25 15:35:36.6273 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-11-25 15:38:39.3171 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-11-25 15:38:39.3438 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-11-25 15:38:39.4163 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-11-25 15:45:40.9625 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-11-25 15:45:40.9738 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-11-25 15:45:40.9936 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-11-25 16:03:09.9932 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-11-25 16:03:10.0050 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-11-25 16:03:10.0278 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-11-25 17:54:25.8505 Info AppDomain Shutting down. LogFactory closing...
+2025-11-25 17:54:25.9963 Info LogFactory has been disposed.
+2025-11-25 23:28:31.0167 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-11-25 23:28:31.0854 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-11-25 23:28:31.1313 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-11-25 23:30:17.5106 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-11-25 23:30:17.5302 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-11-25 23:30:17.5700 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
