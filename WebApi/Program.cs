@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NLog;
 using Repositories.EFCore;
@@ -7,17 +8,22 @@ using WebApi.Extensions;
 var builder = WebApplication.CreateBuilder(args);
 
 LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(),"/nlog.config"));
- 
+
 // Add services to the container.
-builder.Services.AddControllers(config=> 
+builder.Services.AddControllers(config =>
 {
     config.RespectBrowserAcceptHeader = true;
     config.ReturnHttpNotAcceptable = true;
 })
-    .AddCustomCsvFormatter()
+    .AddNewtonsoftJson()
     .AddXmlDataContractSerializerFormatters()
-    .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly)
-    .AddNewtonsoftJson();
+    .AddCustomCsvFormatter()
+    .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
+
+builder.Services.Configure<ApiBehaviorOptions>(options =>
+{
+    options.SuppressModelStateInvalidFilter = true;
+});
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
