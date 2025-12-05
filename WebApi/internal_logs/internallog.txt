@@ -93,3 +93,16 @@
 2025-11-30 23:29:55.5630 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
 2025-12-01 00:59:53.1439 Info AppDomain Shutting down. LogFactory closing...
 2025-12-01 00:59:53.2044 Info LogFactory has been disposed.
+2025-12-03 18:22:34.8284 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-03 18:22:34.8487 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-03 18:22:34.8924 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-12-05 19:02:44.2120 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-05 19:02:44.2285 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-05 19:02:44.2697 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-12-05 19:14:18.5415 Info AppDomain Shutting down. LogFactory closing...
+2025-12-05 19:14:18.5644 Info LogFactory has been disposed.
+2025-12-05 20:58:04.5030 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-12-05 20:58:04.5238 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2025-12-05 20:58:04.5627 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2025-12-05 21:02:50.2802 Info AppDomain Shutting down. LogFactory closing...
+2025-12-05 21:02:50.2973 Info LogFactory has been disposed.
