@@ -125,3 +125,16 @@
 2025-12-14 20:57:47.4557 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
 2025-12-14 23:25:58.3619 Info AppDomain Shutting down. LogFactory closing...
 2025-12-14 23:25:58.4904 Info LogFactory has been disposed.
+2026-01-07 22:41:03.8048 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2026-01-07 22:41:03.8432 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2026-01-07 22:41:03.9096 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2026-01-07 23:11:07.9311 Info AppDomain Shutting down. LogFactory closing...
+2026-01-07 23:11:08.0644 Info LogFactory has been disposed.
+2026-01-07 23:35:02.3378 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2026-01-07 23:35:02.3748 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2026-01-07 23:35:02.4562 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2026-01-07 23:50:47.1364 Info AppDomain Shutting down. LogFactory closing...
+2026-01-07 23:50:47.2575 Info LogFactory has been disposed.
+2026-01-07 23:51:02.4574 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2026-01-07 23:51:02.4968 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2026-01-07 23:51:02.5640 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
