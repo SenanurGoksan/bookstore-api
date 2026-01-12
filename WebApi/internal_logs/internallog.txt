@@ -138,3 +138,5 @@
 2026-01-07 23:51:02.4574 Info Registered target NLog.Targets.FileTarget(Name=logfile)
 2026-01-07 23:51:02.4968 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
 2026-01-07 23:51:02.5640 Info Configuration initialized: TargetNames=logfile, ConfigItems=12, AutoReload=true, FilePath=C:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2026-01-08 00:36:30.5391 Info AppDomain Shutting down. LogFactory closing...
+2026-01-08 00:36:30.6905 Info LogFactory has been disposed.
